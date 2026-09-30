@@ -28,7 +28,10 @@
           "returnTime": "10:42",
           "rank": 18
         }
-      ]
+      ],
+      "version": 1,
+      "attribution": "北岸棚",
+      "descendants": []
     },
     {
       "ringNo": "CHN-2022-188",
@@ -39,7 +42,12 @@
       "loft": "种鸽棚",
       "vaccines": [],
       "transfers": [],
-      "races": []
+      "races": [],
+      "version": 1,
+      "attribution": "育种棚",
+      "descendants": [
+        "CHN-2026-001"
+      ]
     },
     {
       "ringNo": "CHN-2023-512",
@@ -50,7 +58,16 @@
       "loft": "种鸽棚",
       "vaccines": [],
       "transfers": [],
-      "races": []
+      "races": [],
+      "version": 1,
+      "attribution": "育种棚",
+      "descendants": [
+        "CHN-2026-001"
+      ]
     }
-  ]
+  ],
+  "batches": [],
+  "pending": [],
+  "schemaVersion": 2,
+  "migratedAt": "2026-09-30T17:03:20.794Z"
 }
